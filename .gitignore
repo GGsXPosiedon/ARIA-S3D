@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated frames / outputs
+data/frames/
+data/quality_frames/
+data/output/
+
+# Large raw videos
+data/raw_video/*.mp4
+data/raw_video/*.avi
+data/raw_video/*.mov
+
+# Python logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
