@@ -7,7 +7,7 @@ from pathlib import Path
 # CONFIGURATION
 # ============================================================
 
-POINT_CLOUD = Path("data/output/point_cloud.xyz")
+POINT_CLOUD = Path("data/output/filtered_point_cloud.xyz")
 
 
 # ============================================================
