@@ -31,3 +31,4 @@ data/raw_video/*.mov
 # Temporary files
 *.tmp
 *.temp
+data/
